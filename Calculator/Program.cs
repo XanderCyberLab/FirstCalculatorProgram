@@ -38,10 +38,6 @@ namespace Calculator
             {
                 Console.WriteLine("Invalid Operator");
             }
-
-
-            //int sum = num1 * num2;
-            //Console.WriteLine(sum);
         }
     }
 }
